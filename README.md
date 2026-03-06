@@ -2,6 +2,6 @@ A script for Roblox Waterloo at Home that optimizes quality of life, allowing to
 
 Press B/N to throw grenade high/low. 
 
-H for chopping trees.
+H for chopping trees. (You might want to press it again to toggle it off after like 3-5 seconds as it will lag up the client)
 
 V for reloading/cleaning/worming cannons (press again and again after like 2 seconds to do the next step)
